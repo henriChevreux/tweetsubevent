@@ -158,3 +158,6 @@ cython_debug/
 /eval_tweets
 /train_tweets
 *.csv
+
+# Pickle files
+*.pkl
